@@ -6,16 +6,16 @@ Provides flexible formatting, comparison, arithmetic, and diffing.
 ## Installation
 
 ```bash
-npm install better-date
+npm install @wgodious/better-date
 ```
 ```bash
-yarn add better-date
+yarn add @wgodious/better-date
 ```
 
 ## Usage
 ```javascript
 // CommonJS
-const BetterDate = require("better-date");
+const BetterDate = require("@wgodious/better-date");
 
 // ES Module
 // import BetterDate from "better-date";

@@ -1,4 +1,4 @@
-const BetterDate = require("better-date");
+const BetterDate = require("@wgodious/better-date");
 
 // Instantiation
 const now = new BetterDate().now();

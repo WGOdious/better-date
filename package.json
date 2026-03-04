@@ -1,14 +1,12 @@
 {
-  "name": "@odious.dev/better-date",
-  "version": "1.0.0",
+  "name": "@wgodious/better-date",
+  "version": "0.1.1",
   "description": "Tiny immutable fluent Date wrapper for Node.js & browsers (zero dependencies). Provides flexible formatting, comparison, and arithmetic on dates.",
   "main": "index.js",
   "type": "commonjs",
   "sideEffects": false,
   "scripts": {
-    "test": "node test.js",
-    "lint": "eslint .",
-    "prepare": "npm run lint"
+    "test": "node test.js"
   },
   "keywords": [
     "node",
@@ -30,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WGOdious/better-date.git"
+    "url": "git+https://github.com/WGOdious/better-date.git"
   },
   "bugs": {
     "url": "https://github.com/WGOdious/better-date/issues"
