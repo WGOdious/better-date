@@ -1,5 +1,5 @@
 {
-  "name": "better-date",
+  "name": "@odious.dev/better-date",
   "version": "1.0.0",
   "description": "Tiny immutable fluent Date wrapper for Node.js & browsers (zero dependencies). Provides flexible formatting, comparison, and arithmetic on dates.",
   "main": "index.js",
